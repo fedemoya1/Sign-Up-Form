@@ -23,6 +23,7 @@ body{
     background-repeat: repeat-y;
     background-size: cover;
     background-color: hsl(0, 100%, 74%);
+    min-height: 100vh;
 }
 
 .container {
@@ -39,6 +40,7 @@ body{
 .words{
     color: #fff;
     text-align: center;
+    width: 100%;
 }
 
 .title{
